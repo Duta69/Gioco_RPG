@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>Progetto_RPG</artifactId>
+    <artifactId>Gioco_RPG</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Progetto_RPG</name>
+    <name>Gioco_RPG</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -112,7 +112,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.progetto_rpg/com.example.progetto_rpg.HelloApplication</mainClass>
+                            <mainClass>com.example.gioco_rpg/com.example.gioco_rpg.HelloApplication</mainClass>
                         </configuration>
                     </execution>
                 </executions>

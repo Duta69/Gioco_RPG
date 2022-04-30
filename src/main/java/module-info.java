@@ -1,4 +1,4 @@
-module com.example.progetto_rpg {
+module com.example.gioco_rpg {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -10,6 +10,6 @@ module com.example.progetto_rpg {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
 
-    opens com.example.progetto_rpg to javafx.fxml;
-    exports com.example.progetto_rpg;
+    opens com.example.gioco_rpg to javafx.fxml;
+    exports com.example.gioco_rpg;
 }

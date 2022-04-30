@@ -1,4 +1,4 @@
-package com.example.progetto_rpg;
+package com.example.gioco_rpg;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

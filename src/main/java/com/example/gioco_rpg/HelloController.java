@@ -1,4 +1,4 @@
-package com.example.progetto_rpg;
+package com.example.gioco_rpg;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

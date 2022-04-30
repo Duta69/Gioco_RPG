@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Progetto_RPG" />
+        <module name="Gioco_RPG" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Progetto_RPG" target="18" />
+      <module name="Gioco_RPG" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>
